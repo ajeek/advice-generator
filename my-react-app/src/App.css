@@ -51,11 +51,15 @@ p {
   justify-content: center;
   align-items: center;
   cursor: pointer;
+  transition: .5s;
   /* transform: translateY(50%); */
 }
 .btn-neon-grn span {
   background-color: #000;
   width: 40%;
+}
+.btn-neon-grn:hover {
+  box-shadow: 1px 1px 10px 10px hsl(150, 100%, 66%);
 }
 .btn-container {
   /* background-color: red; */

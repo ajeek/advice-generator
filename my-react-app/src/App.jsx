@@ -10,9 +10,7 @@ function App() {
     setAdvice(data.slip.advice)
     setId(data.slip.id)
 
-        // .then (response => response.json())
-        // .then(data => {
-        // })
+  
       
   }
   if (advice) {
