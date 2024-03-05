@@ -17,4 +17,5 @@ If you'd like to contribute to the project, please follow these steps:
 * Make your changes on your own branch.
 * Test your changes thoroughly.
 * Submit a pull request.
-* Please ensure that your contributions adhere to the project's code of conduct.
+* Please ensure that your contributions adhere to the project's code of conduct
+* Learning is welcome
